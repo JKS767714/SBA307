@@ -1,0 +1,25 @@
+.image-container{
+    position: relative
+}
+
+.image_label {
+    position:absolute;
+    top: 0;
+    left: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+label {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 50%;
+}
+
+h2 {
+    margin-top: 100em;
+}
